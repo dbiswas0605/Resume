@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A25CECCF-C229-45BA-BF8D-155A06E38E96}|">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Resume/index.html" Line="111" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Resume" expanded="True">
+            <Node name="Resume" expanded="True">
+              <Node name="assets" expanded="True">
+                <Node name="images" expanded="True">
+                  <Node name="work" expanded="True" selected="True" />
+                </Node>
+              </Node>
+              <Node name="MCS-DS" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Resume PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
