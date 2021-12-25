@@ -1,7 +1,11 @@
 ﻿<Properties StartupConfiguration="{A25CECCF-C229-45BA-BF8D-155A06E38E96}|">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resume/index.html">
     <Files>
-      <File FileName="Resume/index.html" Line="111" Column="60" />
+      <File FileName="Resume/index.html" Line="145" Column="39" />
+      <File FileName="Resume/assets/css/default.css" />
+      <File FileName="Resume/assets/css/style.css" />
+      <File FileName="Resume/assets/css/LineIcons.css" />
+      <File FileName="Resume/assets/css/bootstrap.min.css" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,17 +13,16 @@
           <Node name="Resume" expanded="True">
             <Node name="Resume" expanded="True">
               <Node name="assets" expanded="True">
+                <Node name="css" expanded="True" />
                 <Node name="images" expanded="True">
-                  <Node name="work" expanded="True" selected="True" />
+                  <Node name="work" expanded="True" />
                 </Node>
               </Node>
               <Node name="MCS-DS" expanded="True" />
+              <Node name="index.html" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
